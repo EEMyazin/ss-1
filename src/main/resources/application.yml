@@ -21,3 +21,6 @@ spring:
 
 server:
   port: 9000
+
+jwt:
+  secret: dA5IKauAVDjs5oeo6YQCD11bXyzBc+GW6+Bpnu+HkZTNnlMXrXOBTQz14GCQ0qiP
